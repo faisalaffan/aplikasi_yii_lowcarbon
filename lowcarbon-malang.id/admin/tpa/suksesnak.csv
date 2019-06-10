@@ -1,0 +1,7 @@
+AT+FTPPUT=2,0
+AT+FTPPUTNAME="suksesnak.csv"
+
+AT+FTPPUTPATH="/tpa/"
+AT+FTPPUT=1
+AT+FTPPUT=2,0
+A

@@ -1,0 +1,1276 @@
+# Translation of Themes - Esteem in Indonesian
+# This file is distributed under the same license as the Themes - Esteem package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-15 14:18:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Esteem\n"
+
+#. Description of the plugin/theme
+msgid "Esteem is a clean multipurpose responsive WordPress theme designed to fit business, portfolio, blogging or any type of site. The theme supports custom header, custom background, custom widgets, page templates and has built in options panel to configure primary color, site logo, slider, sidebar layout and 3 blog layout. It's also fully compatible with popular plugins like contact Form 7, WP PageNavi and Breadcrumb Navxt and is translation ready. Get free support at https://themegrill.com/support-forum/ and check the demo at https://demo.themegrill.com/esteem/."
+msgstr "Esteem adalah tema WordPress responsif yang serbaguna di desain untuk bisnis, portofolio, blogging atau jenis situs lainnya. Tema ini mendukung header, kustom latar belakang, kustom widget, template laman dan memiliki opsi built-in panel untuk menyesuaikan warna utama, logo situs, slider, tata letak sidebar dan 3 tata letak blog. Juga cocok dengan plugin terkenal seperti contact form 7, WP PageNavi dan Breadcrumb Navxt dan terjemahannya juga mantap. Dapatkan bantuan gratis di http://themegrill.com/support-forum/ dan lihat demo tema di http://demo.themegrill.com/esteem/."
+
+#. #-#-#-#-#  esteem.pot (Esteem 1.4.1)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/admin/class-esteem-admin.php:393 inc/demo-config.php:22
+msgid "Esteem"
+msgstr "Esteem"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Memasang Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Semua pemasangan telah selesai."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s berhasil dipasang."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proses pemasangan dimulai. Proses ini mungkin memakan waktu pada beberapa hosting, harap bersabar."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Memasang dan Mengaktifkan Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Semua pemasangan dan pengaktifan telah selesai."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Sembunyikan Rincian"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Tampilkan Rincian"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s terpasang dan berhasil diaktifkan."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proses pemasangan dimulai. Proses ini mungkin memakan waktu pada beberapa hosting, harap bersabar."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Pemasangan %1$s gagal."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Terjadi kesalahan saat memasang %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Memperbarui Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Pengaktifan plugin gagal."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Tidak ada plugin tersedia untuk diaktifkan saat ini."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Tidak ada plugin dipilih untuk diaktifkan. Tidak ada tindakan yang diambil."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Tidak ada plugin yang tersedia untuk diperbarui saat ini."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Tidak ada plugin yang tersedia untuk dipasang saat ini."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Tidak ada plugin dipilih untuk diperbarui. Tidak ada tindakan yang diambil."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Tidak ada plugin yang dipilih untuk dipasang. Tidak ada tindakan yang diambil."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Perbarui"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Pasang"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Pesan pembaruan dari pembuat plugin."
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Aktifkan %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Perbarui %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Pasang %2$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versi"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Jenis"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Sumber"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Tidak ada plugin untuk dipasang, diperbarui atau diaktifkan."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versi tersedia:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Syarat minimum versi:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versi terpasang:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "tidak diketahui"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Untuk Aktifkan <span class=\"count\">(%s)</span>"
+msgstr[1] "Untuk Aktifkan <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Tersedia Pembaruan <span class=\"count\">(%s)</span>"
+msgstr[1] "Tersedia Pembaruan <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Untuk Memasang To Install <span class=\"count\">(%s)</span>"
+msgstr[1] "Untuk Memasang To Install <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Semua <span class=\"count\">(%s)</span>"
+msgstr[1] "Semua <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Pembaruan yang disarankan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Memerlukan pembaruan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Pembaruan yang Diperlukan tidak tersedia"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Aktif"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Terpasang Tapi Tidak Diaktifkan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Tidak Terpasang"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pra-Kemas"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Sumber Eksternal"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositori WordPress"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Disarankan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Diperlukan"
+
+#. translators: %s: version number
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1121
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "dan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Paket remot plugin mengandung lebih dari satu file, tapi file tersebut tidak dikemas kedalam folder."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Silahkan hubungi pembuat plugin dan minta mereka untuk mengemas pluginnya sesuai panduan WordPress."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Paket remot plugin tidak mengandung folder dengan slug yang diinginkan dan tidak dapat diganti nama."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Pembaruan Diperlukan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin perlu diperbarui supaya cocok dengan tema Anda."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#: inc/tgm-plugin-activation/tgmpa-esteem.php:109
+msgid "Please contact the administrator of this site for help."
+msgstr "Silahkan hubungi administrasi situs ini untuk bantuan."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:396
+#: inc/tgm-plugin-activation/tgmpa-esteem.php:108
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Terdapat satu atau lebih plugin yang diperlukan atau disarankan untuk dipasang, diperbarui atau diaktifkan."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: inc/tgm-plugin-activation/tgmpa-esteem.php:107
+msgid "Dismiss this notice"
+msgstr "Abaikan pesan ini"
+
+#. translators: 1: dashboard link.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: inc/tgm-plugin-activation/tgmpa-esteem.php:106
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Semua plugin berhasil terpasang dan diaktifkan. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+#: inc/tgm-plugin-activation/tgmpa-esteem.php:104
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin tidak diaktifkan. Versi tinggi dari %s diperlukan untuk tema ini. Silahkan perbarui plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:390
+#: inc/tgm-plugin-activation/tgmpa-esteem.php:102
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Tidak perlu tindakan diambil. Plugin %1$s sudah berhasil aktif."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2952
+#: inc/tgm-plugin-activation/tgmpa-esteem.php:100
+msgid "The following plugin was activated successfully:"
+msgstr "Plugin berikut ini berhasil diaktifkan:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3159
+#: inc/tgm-plugin-activation/tgmpa-esteem.php:99
+msgid "Plugin activated successfully."
+msgstr "Plugin berhasil diaktifkan."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:386
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:827
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Kembali ke Dasbor"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:385
+#: inc/tgm-plugin-activation/tgmpa-esteem.php:98
+msgid "Return to Required Plugins Installer"
+msgstr "Kembali ke Pemasang Plugin yang Diperlukan"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:380
+#: inc/tgm-plugin-activation/tgmpa-esteem.php:93
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Mulai mengaktifkan plugin"
+msgstr[1] "Mulai mengaktifkan plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:375
+#: inc/tgm-plugin-activation/tgmpa-esteem.php:88
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Mulai perbarui plugin"
+msgstr[1] "Mulai perbarui plugin"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:370
+#: inc/tgm-plugin-activation/tgmpa-esteem.php:83
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Mulai pasang plugin"
+msgstr[1] "Mulai pasang plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+#: inc/tgm-plugin-activation/tgmpa-esteem.php:46
+msgid "Something went wrong with the plugin API."
+msgstr "Terjadi kesalahan dengan API plugin."
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:332
+#: inc/tgm-plugin-activation/tgmpa-esteem.php:45
+msgid "Updating Plugin: %s"
+msgstr "Memperbarui Plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:330
+#: inc/tgm-plugin-activation/tgmpa-esteem.php:43
+msgid "Installing Plugin: %s"
+msgstr "Memasang Plugin: %s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:328
+#: inc/tgm-plugin-activation/tgmpa-esteem.php:41
+msgid "Install Plugins"
+msgstr "Pasang Plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:327
+#: inc/tgm-plugin-activation/tgmpa-esteem.php:40
+msgid "Install Required Plugins"
+msgstr "Pasang Plugin yang Diperlukan"
+
+#: inc/customizer.php:132
+msgid "Switch to new responsive menu."
+msgstr "Alih ke menu responsif baru."
+
+#: inc/customizer.php:121
+msgid "Responsive Menu Style"
+msgstr "Gaya Menu Responsif"
+
+#: inc/admin/class-esteem-admin.php:534
+msgid "TG: Fun Facts"
+msgstr "TG: Fakta Menyenangkan"
+
+#: inc/admin/class-esteem-admin.php:529
+msgid "TG: Team"
+msgstr "TG: Tim"
+
+#: inc/admin/class-esteem-admin.php:524
+msgid "TG: Pricing Table"
+msgstr "TG: Daftar Harga"
+
+#: inc/admin/class-esteem-admin.php:519
+msgid "TG: Our Clients"
+msgstr "TG: Klien Kami"
+
+#: inc/admin/class-esteem-admin.php:514
+msgid "TG: Featured Posts"
+msgstr "TG: Pos Andalan"
+
+#: inc/admin/class-esteem-admin.php:504
+msgid "TG: Featured widget"
+msgstr "TG: Widget Fitur"
+
+#: inc/admin/class-esteem-admin.php:499
+msgid "TG: Call to Action widget"
+msgstr "TG: Widget Tombol Tindakan"
+
+#: inc/admin/class-esteem-admin.php:494
+msgid "TG: Services widget"
+msgstr "TG: Widget Layanan"
+
+#: inc/admin/class-esteem-admin.php:491
+msgid "Forum + Emails/Support Ticket"
+msgstr "Forum + Email/Tiket Bantuan"
+
+#: inc/admin/class-esteem-admin.php:490
+msgid "Forum"
+msgstr "Forum"
+
+#: inc/admin/class-esteem-admin.php:489
+msgid "Support"
+msgstr "Bantuan"
+
+#: inc/admin/class-esteem-admin.php:484
+msgid "Footer Copyright Editor"
+msgstr "Penyunting Hak Cipta Footer"
+
+#: inc/admin/class-esteem-admin.php:479
+msgid "Footer Widget Area"
+msgstr "Area Widget Footer"
+
+#: inc/admin/class-esteem-admin.php:474
+msgid "Polylang Compatible"
+msgstr "Cocok dengan Polylang"
+
+#: inc/admin/class-esteem-admin.php:469
+msgid "WPML Compatible"
+msgstr "Cocok dengan WPML"
+
+#: inc/admin/class-esteem-admin.php:464
+msgid "RTL Support"
+msgstr "Mendukung RTL"
+
+#: inc/admin/class-esteem-admin.php:459
+msgid "Translation Ready"
+msgstr "Terjemahan Siap"
+
+#: inc/admin/class-esteem-admin.php:454
+msgid "Woocommerce Compatible"
+msgstr "Cocok dengan Woocommerce"
+
+#: inc/admin/class-esteem-admin.php:449
+msgid "Breadcrumb NavXT Compatible"
+msgstr "Cocok dengan Breadcrumb NavXT"
+
+#: inc/admin/class-esteem-admin.php:444
+msgid "WP-PageNavi Compatible"
+msgstr "Cocok dengan WP-PageNavi"
+
+#: inc/admin/class-esteem-admin.php:439
+msgid "Content Demo"
+msgstr "Demo Konten"
+
+#: inc/admin/class-esteem-admin.php:434
+msgid "Boxed & Wide layout option"
+msgstr "Opsi tata letak Kotak & Lebar"
+
+#: inc/admin/class-esteem-admin.php:426
+msgid "Social Icons + Menu + Header text option"
+msgstr "Ikon Sosial + Menu + Opsi teks header"
+
+#: inc/admin/class-esteem-admin.php:424
+msgid "Additional Top Header"
+msgstr "Tambahan Header Atas"
+
+#: inc/admin/class-esteem-admin.php:421
+msgid "35+ color options"
+msgstr "35+ opsi warna"
+
+#: inc/admin/class-esteem-admin.php:419
+msgid "Multiple Color Options"
+msgstr "Opsi Warna Ganda"
+
+#: inc/admin/class-esteem-admin.php:414
+msgid "Primary Color"
+msgstr "Warna Utama"
+
+#: inc/admin/class-esteem-admin.php:409
+msgid "Font Size options"
+msgstr "Opsi Ukuran Font"
+
+#: inc/admin/class-esteem-admin.php:406
+msgid "600+"
+msgstr "600+"
+
+#: inc/admin/class-esteem-admin.php:404
+msgid "Google Fonts Option"
+msgstr "Opsi Google Font"
+
+#: inc/admin/class-esteem-admin.php:401
+msgid "Unlimited Slides"
+msgstr "Slide Tak Terbatas"
+
+#: inc/admin/class-esteem-admin.php:400
+msgid "4"
+msgstr "4"
+
+#: inc/admin/class-esteem-admin.php:394 inc/demo-config.php:26
+msgid "Esteem Pro"
+msgstr "Esteem Pro"
+
+#: inc/admin/class-esteem-admin.php:392
+msgid "Features"
+msgstr "Fitur"
+
+#: inc/admin/class-esteem-admin.php:369
+msgid "WPML"
+msgstr "WPML"
+
+#: inc/admin/class-esteem-admin.php:365
+msgid "Polylang"
+msgstr "Polylang"
+
+#: inc/admin/class-esteem-admin.php:362 inc/admin/class-esteem-admin.php:366
+#: inc/admin/class-esteem-admin.php:370
+msgid "Fully Compatible in Pro Version"
+msgstr "Sangat Cocok di Versi Pro"
+
+#: inc/admin/class-esteem-admin.php:361
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/admin/class-esteem-admin.php:358
+msgid "Breadcrumb NavXT"
+msgstr "Breadcrumb NavXT"
+
+#: inc/admin/class-esteem-admin.php:355
+msgid "WP-PageNavi"
+msgstr "WP-PageNavi"
+
+#: inc/admin/class-esteem-admin.php:352
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/admin/class-esteem-admin.php:348
+msgid "Easy Social Sharing"
+msgstr "Easy Social Sharing"
+
+#: inc/admin/class-esteem-admin.php:345 inc/admin/class-esteem-admin.php:349
+msgid " by ThemeGrill"
+msgstr "oleh ThemeGrill"
+
+#: inc/admin/class-esteem-admin.php:344 inc/admin/class-esteem-admin.php:429
+msgid "Social Icons"
+msgstr "Ikon sosial"
+
+#: inc/admin/class-esteem-admin.php:341
+msgid "This theme recommends following plugins:"
+msgstr "Tema ini menyarankan plugin berikut:"
+
+#: inc/admin/class-esteem-admin.php:287
+msgid "View changelog below:"
+msgstr "Lihat catatan perubahan dibawah:"
+
+#: inc/admin/class-esteem-admin.php:270
+msgid "Go to Dashboard"
+msgstr "Pergi ke Dasbor"
+
+#: inc/admin/class-esteem-admin.php:270
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Pergi ke Dasbor &rarr; Beranda"
+
+#: inc/admin/class-esteem-admin.php:267
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "Kembali ke Dasbor &rarr; Pembaruan"
+
+#: inc/admin/class-esteem-admin.php:267
+msgid "Return to Updates"
+msgstr "Kembali ke Pembaruan"
+
+#: inc/admin/class-esteem-admin.php:251
+msgid "Click below to translate this theme into your own language."
+msgstr "Klik dibawah untuk menerjemahkan tema ini kedalam bahasa Anda."
+
+#: inc/admin/class-esteem-admin.php:247 inc/admin/class-esteem-admin.php:255
+msgid "Translate"
+msgstr "Terjemahkan"
+
+#: inc/admin/class-esteem-admin.php:240
+msgid "Contact Page"
+msgstr "Laman Kontak"
+
+#: inc/admin/class-esteem-admin.php:238
+msgid "Please send it via our sales contact page."
+msgstr "Silahkan kirim lewat laman Kontak penjualan kami."
+
+#: inc/admin/class-esteem-admin.php:237
+msgid "Got sales related question?"
+msgstr "Ada pertanyaan seputar penjualan?"
+
+#: inc/admin/class-esteem-admin.php:232 inc/admin/class-esteem-admin.php:542
+msgid "View Pro"
+msgstr "Lihat Pro"
+
+#: inc/admin/class-esteem-admin.php:230 inc/admin/class-esteem-admin.php:387
+msgid "Upgrade to PRO version for more exciting features."
+msgstr "Tingkatkan ke versi PRO untuk fitur menarik lainnya."
+
+#: inc/admin/class-esteem-admin.php:229
+msgid "Need more features?"
+msgstr "Butuh fitur lebih?"
+
+#: inc/admin/class-esteem-admin.php:224
+msgid "Support Forum"
+msgstr "Forum Bantuan"
+
+#: inc/admin/class-esteem-admin.php:222
+msgid "Please put it in our dedicated support forum."
+msgstr "Ajukan di forum khusus kami."
+
+#: inc/admin/class-esteem-admin.php:221
+msgid "Got theme support question?"
+msgstr "Ada pertanyaan seputar bantuan tema?"
+
+#: inc/admin/class-esteem-admin.php:214
+msgid "Please view our documentation page to setup the theme."
+msgstr "Silahkan lihat lama dokumentasi kami untuk mengatur tema."
+
+#: inc/admin/class-esteem-admin.php:208
+msgid "Customize"
+msgstr "Sesuaikan"
+
+#: inc/admin/class-esteem-admin.php:206
+msgid "All Theme Options are available via Customize screen."
+msgstr "Semua Opsi Tema tersedia di layar Kustomisasi."
+
+#: inc/admin/class-esteem-admin.php:205
+msgid "Theme Customizer"
+msgstr "Penyesuai Tema"
+
+#: inc/admin/class-esteem-admin.php:171
+msgid "Changelog"
+msgstr "Catatan Perubahan"
+
+#: inc/admin/class-esteem-admin.php:163
+msgid "Free Vs Pro"
+msgstr "Gratis vs Pro"
+
+#: inc/admin/class-esteem-admin.php:155
+msgid "Supported Plugins"
+msgstr "Plugin Dukungan"
+
+#: inc/admin/class-esteem-admin.php:140
+msgid "Rate this theme"
+msgstr "Nilailah tema ini"
+
+#: inc/admin/class-esteem-admin.php:98
+msgid "Get started with Esteem"
+msgstr "Mulai Esteem"
+
+#: inc/admin/class-esteem-admin.php:96
+msgid "Welcome! Thank you for choosing Esteem! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr "Selamat Datang! Terimakasih sudah memilih Esteem! Untuk mendapatkan manfaat lebih dari yang ditawarkan oleh tema pastikan Anda mengunjungi %swelcome page%s kami."
+
+#: inc/admin/class-esteem-admin.php:95
+msgid "Dismiss"
+msgstr "Abaikan"
+
+#: inc/admin/class-esteem-admin.php:81
+msgid "Cheatin&#8217; huh?"
+msgstr "Aneh huh?"
+
+#: inc/admin/class-esteem-admin.php:77
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Tindakan gagal. Silahkan muat ulang laman dan coba lagi."
+
+#: inc/admin/class-esteem-admin.php:36 inc/admin/class-esteem-admin.php:119
+msgid "About"
+msgstr "Tentang"
+
+#: inc/admin/class-esteem-admin.php:138 inc/customizer.php:72
+msgid "View PRO version"
+msgstr "Lihat versi PRO"
+
+#: inc/admin/class-esteem-admin.php:134
+msgid "Theme Info"
+msgstr "Info Tema"
+
+#: inc/customizer.php:345
+msgid "Select default layout. This layout will be reflected in whole site archives, search etc. The layout for a single post and page can be controlled from below options.. The change is reflected in whole site."
+msgstr "Pilih tata letak default. Tata letak ini akan berdampak pada semua situs arsip, pencarian, dll. Tata letak untuk pos dan laman tunggal bisa diatur dari opsi dibawah.. Perubahan akan berdampak diseluruh situs."
+
+#: inc/functions.php:428
+msgid "<span class=\"icon-time\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%3$s</a></span>"
+msgstr "<span class=\"icon-time\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%3$s</a></span>"
+
+#. Template Name of the plugin/theme
+msgid "Contact Page Template"
+msgstr "Template Laman Kontak"
+
+#. Template Name of the plugin/theme
+msgid "Business Template"
+msgstr "Template Bisnis"
+
+#: sidebar-left.php:36 sidebar.php:36
+msgid "Meta"
+msgstr "Meta"
+
+#: searchform.php:12 searchform.php:13 searchform.php:15
+msgid "Search"
+msgstr "Cari"
+
+#: inc/admin/class-esteem-admin.php:136
+msgid "View Demo"
+msgstr "Lihat Demo"
+
+#: inc/admin/class-esteem-admin.php:213 inc/admin/class-esteem-admin.php:216
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: inc/customizer.php:655
+msgid "Enter link to redirect slider when clicked"
+msgstr "Masukkan link untuk mengarahkan saat di klik"
+
+#: inc/customizer.php:640
+msgid "Enter your slider description."
+msgstr "Masukkan deskripsi untuk slider Anda."
+
+#: inc/customizer.php:626
+msgid "Enter title for your slider."
+msgstr "Masukkan judul untuk slider Anda."
+
+#: inc/customizer.php:612
+msgid "Upload slider image."
+msgstr "Unghah gambar slider."
+
+#: inc/customizer.php:599
+msgid "Image Upload #%1$s"
+msgstr "Unggahan Gambar #%1$s"
+
+#: inc/customizer.php:583
+msgid "Check to activate slider."
+msgstr "Centang untuk mengaktifkan slider."
+
+#: inc/customizer.php:570
+msgid "Activate slider"
+msgstr "Aktifkan Slider"
+
+#: inc/admin/class-esteem-admin.php:399 inc/customizer.php:565
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/customizer.php:497
+msgid "Additional"
+msgstr "Tambahan"
+
+#: inc/customizer.php:483
+msgid "Write your custom css."
+msgstr "Tulis kustom css Anda."
+
+#: inc/customizer.php:471
+msgid "Custom CSS"
+msgstr "Kustom CSS"
+
+#: inc/customizer.php:447
+msgid "This will reflect in links, buttons and many others. Choose a color to match your site."
+msgstr "Akan berdampak pada link, tombol dan banyak lagi. Tentukan warna yang sesuai dengan situs Anda."
+
+#: inc/customizer.php:435
+msgid "Primary color option"
+msgstr "Opsi warna utama"
+
+#: inc/customizer.php:427
+msgid "Full Content"
+msgstr "Konten Penuh"
+
+#: inc/customizer.php:426
+msgid "Small featured image"
+msgstr "Gambar andalan kecil"
+
+#: inc/customizer.php:425
+msgid "Large featured image"
+msgstr "Gambar andalan lebar"
+
+#: inc/customizer.php:422
+msgid "Choose the display type for the latests posts view or posts page view (static front page)."
+msgstr "Tentukan jenis tampilan untuk pos terbaru atau tampilan laman pos (laman depan statis)."
+
+#: inc/customizer.php:410
+msgid "Blog page display type"
+msgstr "Jenis tampilan laman blog"
+
+#: inc/customizer.php:397
+msgid "Select default layout for single posts. This layout will be reflected in all single posts unless unique layout is set for specific post."
+msgstr "Pilih tata letak bawaan untuk pos tunggal. Tata letak ini akan berdampak di semua pos tunggal kecuali tata letak unik diatur pada pos."
+
+#: inc/customizer.php:384
+msgid "Default layout for single posts only"
+msgstr "Tata letak bawaan untuk pos tunggal saja."
+
+#: inc/customizer.php:371
+msgid "Select default layout for pages. This layout will be reflected in all pages unless unique layout is set for specific page."
+msgstr "Pilih tata letak bawaan untuk laman. Tata letak ini akan berdampak di semua laman kecuali tata letak unik diatur untuk laman tertentu."
+
+#: inc/customizer.php:358
+msgid "Default layout for pages only"
+msgstr "Tata letak bawaan hanya untuk laman"
+
+#: inc/customizer.php:332
+msgid "Default layout"
+msgstr "Tata Letak Bawaan"
+
+#: inc/customizer.php:260
+msgid "Wide layout"
+msgstr "Tata Letak Lebar"
+
+#: inc/customizer.php:259
+msgid "Boxed layout"
+msgstr "Tata Letak Kotak"
+
+#: inc/customizer.php:256
+msgid "Choose your site layout. The change is reflected in whole site."
+msgstr "Tentukan tata letak situs Anda. Perubahan berdampak di keseluruhan situs."
+
+#: inc/customizer.php:243
+msgid "Site Layout"
+msgstr "Tata Letak Situs"
+
+#: inc/customizer.php:238
+msgid "Design"
+msgstr "Desain"
+
+#: inc/customizer.php:228
+msgid "Enter redirect link"
+msgstr "Masukkan link pengarah"
+
+#: inc/customizer.php:218
+msgid "Button redirect link"
+msgstr "Link pengarahan tombol"
+
+#: inc/customizer.php:192 inc/customizer.php:203
+msgid "Button Text"
+msgstr "Teks Tombol"
+
+#: inc/customizer.php:177
+msgid "Enter the sub slogan"
+msgstr "Masukkan sub slogan"
+
+#: inc/customizer.php:165
+msgid "Promo box secondary Slogan"
+msgstr "Slogan Kedua kotak promo"
+
+#: inc/customizer.php:150
+msgid "Enter the main Slogan"
+msgstr "Masukkan Slogan utama"
+
+#: inc/customizer.php:139
+msgid "Promo box Primary Slogan"
+msgstr "Slogan Utama kotak promo"
+
+#: inc/customizer.php:108
+msgid "Choose the option that you want."
+msgstr "Tentukan opsi yang Anda mau."
+
+#: inc/customizer.php:96
+msgid "Show"
+msgstr "Tampilkan"
+
+#: inc/customizer.php:114
+msgid "Disable"
+msgstr "Tiadakan"
+
+#: inc/customizer.php:113
+msgid "Show Both"
+msgstr "Tampilkan Keduanya"
+
+#: inc/customizer.php:112
+msgid "Header Text Only"
+msgstr "Hanya Teks Header"
+
+#: inc/customizer.php:111
+msgid "Header Logo Only"
+msgstr "Hanya Logo Header"
+
+#: inc/customizer.php:89
+msgid "Header Logo"
+msgstr "Logo Header"
+
+#: inc/customizer.php:84
+msgid "Header"
+msgstr "Header"
+
+#: no-results.php:25
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Rupanya kami tidak dapat menemukan hal yang sedang Anda cari. Cobalah pada pencarian."
+
+#: no-results.php:20
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan kata yang anda cari. Silahkan coba lagi dengan kata kunci yang lain"
+
+#: no-results.php:16
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sudah siap menerbitkan pos pertamamu? <a href=\"%1$s\">Mulai disini</a>."
+
+#: navigation.php:41
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: navigation.php:40
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: navigation.php:33
+msgid "Next &rarr;"
+msgstr "Selanjutnya &rarr;"
+
+#: navigation.php:32
+msgid "&larr; Previous"
+msgstr "&larr; Sebelumnya"
+
+#: navigation.php:21
+msgid "Next &raquo;"
+msgstr "Berikutnya &raquo;"
+
+#: navigation.php:20
+msgid "&laquo; Previous"
+msgstr "&laquo; Sebelumnya"
+
+#: inc/widgets/class-esteem-testimonial-widget.php:142
+#: inc/widgets/class-esteem-testimonial-widget.php:160
+msgid "Company link:"
+msgstr "Link perusahaan:"
+
+#: inc/widgets/class-esteem-testimonial-widget.php:139
+#: inc/widgets/class-esteem-testimonial-widget.php:157
+msgid "Company:"
+msgstr "Perusahaan:"
+
+#: inc/widgets/class-esteem-testimonial-widget.php:136
+#: inc/widgets/class-esteem-testimonial-widget.php:154
+msgid "Byline:"
+msgstr "Byline:"
+
+#: inc/widgets/class-esteem-testimonial-widget.php:133
+#: inc/widgets/class-esteem-testimonial-widget.php:151
+msgid "Testimonial Description"
+msgstr "Deskripsi Testimonial"
+
+#: inc/widgets/class-esteem-testimonial-widget.php:130
+#: inc/widgets/class-esteem-testimonial-widget.php:148
+msgid "Image link:"
+msgstr "Link gambar:"
+
+#: inc/widgets/class-esteem-testimonial-widget.php:127
+#: inc/widgets/class-esteem-testimonial-widget.php:145
+msgid "Name:"
+msgstr "Nama:"
+
+#: inc/admin/class-esteem-admin.php:509
+#: inc/widgets/class-esteem-testimonial-widget.php:10
+msgid "TG: Testimonial"
+msgstr "TG: Testimonial"
+
+#: inc/widgets/class-esteem-testimonial-widget.php:8
+msgid "Display Testimonial"
+msgstr "Tampilkan Testimonial"
+
+#: inc/widgets/class-esteem-call-to-action-widget.php:42
+msgid "Open in new tab"
+msgstr "Buka di tab baru"
+
+#: inc/widgets/class-esteem-call-to-action-widget.php:38
+msgid "Button Redirect Link:"
+msgstr "Link Pengarah Tombol:"
+
+#: inc/widgets/class-esteem-call-to-action-widget.php:34
+msgid "Button Text:"
+msgstr "Teks Tombol:"
+
+#: inc/widgets/class-esteem-call-to-action-widget.php:31
+msgid "Call to Action Additional Text"
+msgstr "Teks Tambahan Tombol Tindakan"
+
+#: inc/widgets/class-esteem-call-to-action-widget.php:29
+msgid "Call to Action Main Text"
+msgstr "Teks Utama Tombol Tindakan"
+
+#: inc/widgets/class-esteem-call-to-action-widget.php:11
+msgid "TG: Call To Action Widget"
+msgstr "TG: Widget Tombol Tindakan"
+
+#: inc/widgets/class-esteem-call-to-action-widget.php:9
+msgid "Use this widget to show the call to action section"
+msgstr "Gunakan widget ini untuk menampilkan bagian tombol tindakan"
+
+#: inc/widgets/class-esteem-recent-work-widget.php:30
+#: inc/widgets/class-esteem-testimonial-widget.php:124
+msgid "Title:"
+msgstr "Judul:"
+
+#: inc/widgets/class-esteem-recent-work-widget.php:11
+msgid "TG: Featured Widget"
+msgstr "TG: Widget Andalan"
+
+#: inc/widgets/class-esteem-recent-work-widget.php:9
+msgid "Use this widget to show recent work, portfolio or any pages as your wish ( Business Layout )"
+msgstr "Gunakan widget ini untuk menampilkan kerjaan terbaru, portofolio atau laman lain seperti yang diharapkan (Tata Letak Bisnis)"
+
+#: inc/widgets/class-esteem-recent-work-widget.php:37
+#: inc/widgets/class-esteem-service-widget.php:34
+msgid "Page"
+msgstr "Laman"
+
+#: inc/widgets/class-esteem-service-widget.php:30
+msgid "<strong>Note:</strong> Featured Image will overwrite the fontawesome icon."
+msgstr ""
+"<strong>Catatan:</strong> \n"
+"Gambar Andalan akan menimpa ikon fontawesome."
+
+#: inc/widgets/class-esteem-service-widget.php:29
+msgid "Check to display the Featured Image"
+msgstr "Centang untuk menampilkan Gambar Andalan"
+
+#: inc/widgets/class-esteem-service-widget.php:11
+msgid "TG: Services"
+msgstr "TG: Layanan"
+
+#: inc/widgets/class-esteem-service-widget.php:9
+msgid "Display Services( Business Layout )"
+msgstr "Tampilkan Layanan ( Tata Letak Bisnis )"
+
+#: inc/widgets/widgets.php:87
+msgid "Shows widgets on Contact Page Template."
+msgstr "Menampilkan widget pada Template Laman Kontak."
+
+#: inc/widgets/widgets.php:85
+msgid "Contact Page Sidebar"
+msgstr "Sidebar Laman Kontak"
+
+#: inc/widgets/widgets.php:76
+msgid "Shows widgets at footer sidebar three."
+msgstr "Menampilkan widget di sidebar footer tiga."
+
+#: inc/widgets/widgets.php:74
+msgid "Footer Sidebar Three"
+msgstr "Sidebar Footer Tiga"
+
+#: inc/widgets/widgets.php:65
+msgid "Shows widgets at footer sidebar two."
+msgstr "Menampilkan widget di sidebar footer dua."
+
+#: inc/widgets/widgets.php:63
+msgid "Footer Sidebar Two"
+msgstr "Sidebar Footer Dua"
+
+#: inc/widgets/widgets.php:54
+msgid "Shows widgets at footer sidebar one."
+msgstr "Menampilkan widget di sidebar footer satu"
+
+#: inc/widgets/widgets.php:52
+msgid "Footer Sidebar One"
+msgstr "Sidebar Footer Satu"
+
+#: inc/widgets/widgets.php:43
+msgid "Shows widgets on Business Page Template."
+msgstr "Menampilkan widget pada Template Laman Bisnis."
+
+#: inc/widgets/widgets.php:41
+msgid "Business Page Sidebar"
+msgstr "Sidebar Laman Bisnis"
+
+#: inc/widgets/widgets.php:31
+msgid "Shows widgets at Left side."
+msgstr "Menampilkan widget disisi Kiri."
+
+#: inc/widgets/widgets.php:20
+msgid "Shows widgets at Right side."
+msgstr "Menampilkan widget disisi Kanan."
+
+#: inc/header-functions.php:176
+msgid "You are here:"
+msgstr "Anda disini:"
+
+#: inc/header-functions.php:147
+msgid "Search Results"
+msgstr "Hasil Pencarian"
+
+#: inc/header-functions.php:145
+msgid "Page NOT Found"
+msgstr "Laman TIDAK Ditemukan"
+
+#: inc/header-functions.php:141 sidebar-left.php:29 sidebar.php:29
+msgid "Archives"
+msgstr "Arsip"
+
+#: inc/header-functions.php:138
+msgid "Year: %s"
+msgstr "Tahun: %s"
+
+#: inc/header-functions.php:135
+msgid "Month: %s"
+msgstr "Bulan: %s"
+
+#: inc/header-functions.php:132
+msgid "Day: %s"
+msgstr "Hari: %s"
+
+#: inc/header-functions.php:124
+msgid "Author: %s"
+msgstr "Penulis: %s"
+
+#: inc/functions.php:338
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s oleh %2$s."
+
+#: inc/functions.php:338
+msgid "Powered by %s."
+msgstr "Dipersembahkan oleh %s."
+
+#: inc/functions.php:338
+msgid "Copyright &copy; %1$s %2$s."
+msgstr "Hak Cipta &copy; %1$s %2$s."
+
+#. #-#-#-#-#  esteem.pot (Esteem 1.4.1)  #-#-#-#-#
+#. Author of the plugin/theme
+#: inc/functions.php:336
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#: inc/functions.php:334
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/admin/meta-boxes.php:86
+msgid "fontawesome Icons"
+msgstr "Ikon fontawesome"
+
+#: inc/admin/meta-boxes.php:76
+msgid "No sidebar content Centered"
+msgstr "Konten Ditengah tanpa sidebar"
+
+#: inc/admin/meta-boxes.php:72
+msgid "No sidebar full width"
+msgstr "Lebar penuh tanpa sidebar"
+
+#: inc/admin/meta-boxes.php:68 inc/widgets/widgets.php:29
+msgid "Left Sidebar"
+msgstr "Sidebar Kiri"
+
+#: inc/admin/meta-boxes.php:64 inc/widgets/widgets.php:18
+msgid "Right Sidebar"
+msgstr "Sidebar Kanan"
+
+#: inc/admin/meta-boxes.php:60
+msgid "Default Layout"
+msgstr "Tata Letak Bawaan"
+
+#: inc/admin/meta-boxes.php:55
+msgid "Sidebar Layout"
+msgstr "Tata Letak Sidebar"
+
+#: inc/admin/meta-boxes.php:41
+msgid "Icon class"
+msgstr "Ikon class"
+
+#: inc/admin/meta-boxes.php:21 inc/admin/meta-boxes.php:31
+msgid "Select Layout"
+msgstr "Pilih Tata Letak"
+
+#: fontawesome/icons.php:4
+msgid "(None)"
+msgstr "(None)"
+
+#: content-single.php:22
+msgid "Tagged on: "
+msgstr "Ditag pada:"
+
+#: content-page.php:17 content-single.php:29
+msgid "Pages:"
+msgstr "Laman:"
+
+#: content-blog-image-large.php:42 content-blog-image-medium.php:43
+#: content.php:46 inc/widgets/class-esteem-service-widget.php:96
+#: inc/widgets/class-esteem-service-widget.php:113
+msgid "Read more"
+msgstr "Baca selengkapnya"
+
+#: inc/functions.php:442
+msgid "Edit"
+msgstr "Sunting"
+
+#: inc/functions.php:439
+msgid "Comments Off"
+msgstr "Komentar Dimatikan"
+
+#: inc/functions.php:439
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: inc/functions.php:439
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: inc/functions.php:439
+msgid "No Comments"
+msgstr "Tidak ada Komentar"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:40 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Komentar Terbaru &rarr;"
+
+#: comments.php:39 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Komentar Terdahulu"
+
+#: comments.php:38 comments.php:56
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: comments.php:31
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu gagasan untuk &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gagasan untuk &ldquo;%2$s&rdquo;"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr "Sepertinya tidak ada apa-apa disini. Cobalah pencarian dibawah"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Laman tersebut tak bisa ditemukan."
+
+#. Author URI of the plugin/theme
+msgid "https://themegrill.com"
+msgstr "http://themegrill.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://themegrill.com/themes/esteem/"
+msgstr "http://themegrill.com/themes/esteem/"

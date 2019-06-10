@@ -1,0 +1,7 @@
+#accordion-section-metropoly-sections-order .accordion-section-title:after,
+#accordion-section-metropoly-pricing-table .accordion-section-title:after,
+#accordion-section-metropoly-portfolios .accordion-section-title:after,
+#accordion-section-metropoly-contact .accordion-section-title:after,
+#accordion-section-metropoly-recent-products .accordion-section-title:after{
+    content: "\f160";
+}
